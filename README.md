@@ -9,7 +9,7 @@ npm start
 #### Basic Usage
 ```
 import React from 'react';
-import Countdown from 'react-countdown-master';
+import Timer from 'react-countdown-master';
 
 ReactDOM.render(
   <Timer date={Date.now() + 10000} />,
