@@ -1,6 +1,8 @@
 # react-countdown-master
 Simple count down timer for ReactJs
 
+![Screenshot](sample.png)
+
 #### Getting Started
 ```
 npm install react-countdown-master
