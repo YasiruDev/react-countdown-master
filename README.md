@@ -1,12 +1,12 @@
 # react-countdown-master
 Simple count down timer for ReactJs
 
-# Getting Started
+#### Getting Started
 ```
 npm install react-countdown-master
-npm run
+npm start
 ```
-# Basic Usage
+#### Basic Usage
 ```
 import React from 'react';
 import Countdown from 'react-countdown-master';
