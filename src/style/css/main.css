@@ -1,0 +1,13 @@
+
+.px-2 {
+  padding-right: 0.5rem !important;
+}
+.d-flex {
+  display: flex !important; }
+.gameD-right small {
+    font-size: 11px;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    font-weight: 500;
+}
